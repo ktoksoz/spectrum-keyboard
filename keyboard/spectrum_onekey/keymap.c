@@ -28,7 +28,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     {
-        {KC_V,      KC_G,       KC_B,       KC_T,       KC_5,       KC_H,  KC_Y,    KC_G   },
+        {KC_V,      KC_G,       KC_B,       KC_T,       KC_5,       KC_H,  KC_Y,    KC_6   },
         {KC_C,      KC_F,       KC_N,       KC_R,       KC_4,       KC_J,  KC_U,    KC_7   },
         {KC_X,      KC_D,       KC_M,       KC_E,       KC_3,       KC_K,  KC_I,    KC_8   },
         {KC_Z,      KC_S,       KC_LCTL,    KC_W,       KC_2,       KC_L,  KC_O,    KC_9   },
